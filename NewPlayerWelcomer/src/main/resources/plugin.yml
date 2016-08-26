@@ -1,0 +1,4 @@
+name: NewPlayerWelcomer
+author: 'storm345'
+main: org.stormdev.mc.newplayerwelcomer.NewPlayerWelcomer
+version: 1.0
